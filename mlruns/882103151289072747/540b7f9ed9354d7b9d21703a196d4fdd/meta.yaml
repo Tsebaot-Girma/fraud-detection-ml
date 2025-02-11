@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/882103151289072747/540b7f9ed9354d7b9d21703a196d4fdd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '882103151289072747'
+lifecycle_stage: active
+run_id: 540b7f9ed9354d7b9d21703a196d4fdd
+run_name: judicious-goat-260
+run_uuid: 540b7f9ed9354d7b9d21703a196d4fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739295097444
+status: 1
+tags: []
+user_id: Tsebaot

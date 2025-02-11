@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/814743368962712915/d480fccd30954cfd8d98563eba9bfa12/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '814743368962712915'
+lifecycle_stage: active
+run_id: d480fccd30954cfd8d98563eba9bfa12
+run_name: Run_for_FraudDetection
+run_uuid: d480fccd30954cfd8d98563eba9bfa12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739287800580
+status: 1
+tags: []
+user_id: Tsebaot

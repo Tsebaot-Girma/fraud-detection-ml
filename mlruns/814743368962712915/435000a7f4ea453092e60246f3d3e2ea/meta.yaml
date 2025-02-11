@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/814743368962712915/435000a7f4ea453092e60246f3d3e2ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '814743368962712915'
+lifecycle_stage: active
+run_id: 435000a7f4ea453092e60246f3d3e2ea
+run_name: casual-stoat-943
+run_uuid: 435000a7f4ea453092e60246f3d3e2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739287017416
+status: 1
+tags: []
+user_id: Tsebaot

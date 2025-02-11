@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/882103151289072747/ae986a01d72d473593b369630b205b26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '882103151289072747'
+lifecycle_stage: active
+run_id: ae986a01d72d473593b369630b205b26
+run_name: glamorous-boar-329
+run_uuid: ae986a01d72d473593b369630b205b26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739290044314
+status: 1
+tags: []
+user_id: Tsebaot

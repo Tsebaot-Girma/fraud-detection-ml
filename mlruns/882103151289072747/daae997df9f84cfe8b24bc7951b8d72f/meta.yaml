@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/882103151289072747/daae997df9f84cfe8b24bc7951b8d72f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '882103151289072747'
+lifecycle_stage: active
+run_id: daae997df9f84cfe8b24bc7951b8d72f
+run_name: dashing-steed-767
+run_uuid: daae997df9f84cfe8b24bc7951b8d72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739294294265
+status: 1
+tags: []
+user_id: Tsebaot

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/814743368962712915/717ab1cdb6e44d7eab48c62adc423d54/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '814743368962712915'
+lifecycle_stage: active
+run_id: 717ab1cdb6e44d7eab48c62adc423d54
+run_name: merciful-hen-840
+run_uuid: 717ab1cdb6e44d7eab48c62adc423d54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739287859516
+status: 1
+tags: []
+user_id: Tsebaot

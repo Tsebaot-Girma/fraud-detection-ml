@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/882103151289072747/dfa68e5a54de42c8afb1587035c2c66b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '882103151289072747'
+lifecycle_stage: active
+run_id: dfa68e5a54de42c8afb1587035c2c66b
+run_name: skillful-hound-546
+run_uuid: dfa68e5a54de42c8afb1587035c2c66b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739295122446
+status: 1
+tags: []
+user_id: Tsebaot

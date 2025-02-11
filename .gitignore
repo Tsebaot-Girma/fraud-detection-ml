@@ -1,2 +1,4 @@
 week-8/
 data/
+scripts/__pycache__/
+*.pyc
